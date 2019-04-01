@@ -17,3 +17,7 @@ $ node server.js
 ```
 
 Puis cliquer sur le lien http://localhost:3000
+
+# Site de test
+
+[Version déployée sur Github](https://aphilou.github.io/flight-board-deployed/)
